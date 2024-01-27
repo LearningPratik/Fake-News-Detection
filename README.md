@@ -2,7 +2,6 @@
 
 
 Process :
-Project Flow:
 ------------
 1. Problem Statement
 2. Data Gathering - https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
@@ -33,4 +32,4 @@ Logistic regression - performed good on both False positives and negatives, near
 Random Forest - performed good on False negatives, the number came down to only 9 such incorrect cases.
 
 Final result using Random Forest :
-!(image.png)
+![Image](image.png)
