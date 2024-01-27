@@ -5,7 +5,7 @@ Process :
 Project Flow:
 ------------
 1. Problem Statement
-2. Data Gathering
+2. Data Gathering - https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 
 3. Data Preprocessing: Here we perform some operations on data - NLTK package
     A. Tokenization
